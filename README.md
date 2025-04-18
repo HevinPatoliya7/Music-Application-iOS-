@@ -15,7 +15,6 @@
 
 <h3 align="left">Desgin :</h3>
 
-<img src="URL_HERE" alt="description" width="10" height="20" />
 
 
 
